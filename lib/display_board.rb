@@ -2,7 +2,7 @@
 # out the current state.
 
 
-def display_board
+def display_board(name)
   puts "   |   |   |"
   puts "------------"
   puts "   |   |   |"
